@@ -1,3 +1,2 @@
 # UCSCX
-University of California, Santa Cruz, Extension
-Java Programming - Comprehensive
+University of California, Santa Cruz, Extension:  Java Programming - Comprehensive
